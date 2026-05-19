@@ -1,11 +1,11 @@
  								<The Egyptian League Simulator project>
 
 Made By: 
-Ramy Said 		231903795
-David Gourge 		231903654
-Ahmed Kamal 		231903648
-Yossef Amer 		231903616
-Ahmed Abdelrazik 	232903959
+Ramy Said 	
+David Gourge 		
+Ahmed Kamal 		
+Yossef Amer 		
+Ahmed Abdelrazik 	
 
 Date of project completion: 7 / 5 / 2024
 
